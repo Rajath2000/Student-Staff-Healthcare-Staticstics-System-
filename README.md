@@ -1,4 +1,4 @@
-# Student-Staff-Healthcare-Staticstics-System-
+# Student-Staff-Healthcare-Statistics -System-
 
 Abstract:
 Health is important for everyone,Our system collects the all the datas related to persons
