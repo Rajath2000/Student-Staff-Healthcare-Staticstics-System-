@@ -36,22 +36,23 @@ modules are:
 6.numpy
 7.matplotlib
 
-Edit the link variable for genrated link from your oracle account in Homepage.py file
+Edit the link variable for genrated link from your oracle account in Homepage.py file:
+
 link='hr/hr@//localhost:1521/xe'
 link='username/password@//localhost:1521/xe'
 
-example
+example:
 link='john/john@//locahost:1521/xe'
 
-uncomment the last line of Quiries.py
+uncomment the last line of Quiries.py:
 #initializeDataBae()
 
-Run Quiries.py to initalize Database
+Run Quiries.py to initalize Database:
 python Quries.py
 
 
 Finally Good to go!
-run
+run:
 python HomePage.py
 
 
